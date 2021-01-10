@@ -8,4 +8,4 @@
 Used:
 JavaScript/ Git/ CSS/ HTML/ Bootstrap
 
-Inspiration and graphics - https://www.youtube.com/watch?v=9FVtiJHFCSU&t=1s (Mirosław Zelent)
+Inspiration and graphics - Mirosław Zelent
